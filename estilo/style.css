@@ -6,6 +6,7 @@
     font-family: 'Android';
     src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
 }
 
 :root{
